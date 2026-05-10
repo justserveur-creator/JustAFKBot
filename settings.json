@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "JustServeur.aternos.me",
-    "port": 16248,
+    "port": "16248",
     "version": "1.21.1",
     "try-creative": false
   },
